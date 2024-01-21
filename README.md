@@ -10,7 +10,7 @@ Bem-vindo ao **Jogo da Memória**! Neste repositório, você encontrará um jogo
 
 - HTML5 e CSS3 para a estrutura e aparência do jogo.
 - JavaScript para a lógica de programação e interatividade.
-- Sprites e imagens customizadas para criar a estética única do universo de Detona Ralph.
+- Sprites e imagens de emojis para criar um jogo simples de memória.
 - Audios em .m4a interativos.
 
 ### Funcionalidades
