@@ -27,6 +27,8 @@ Bem-vindo ao **Jogo da Memória**! Neste repositório, você encontrará um jogo
 
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
 
+Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/js-emoji-memory-game).
+
 ### Modificações
 
 1. Implementação de audios interativos para as ações do jogador
